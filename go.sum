@@ -609,10 +609,9 @@ github.com/ryanuber/columnize v2.1.0+incompatible/go.mod h1:sm1tb6uqfes/u+d4ooFo
 github.com/samuel/go-zookeeper v0.0.0-20190923202752-2cc03de413da/go.mod h1:gi+0XIa01GRL2eRQVjQkKGqKF3SF9vZR/HnPullcV2E=
 github.com/sanches1984/gopkg-database v1.0.0 h1:xQnxzUksRvvYC9qoUe5sbm5p9feyp8lBKgBvdqmPZVU=
 github.com/sanches1984/gopkg-database v1.0.0/go.mod h1:ExQp0HUynb6J1qx8CzW5VyETmCibULcQYocSE9PHlLE=
-github.com/sanches1984/gopkg-errors v1.0.0 h1:/1rH5BBKcFd/tUAnK28qp5vV7is84PUKKQQcXppLZDY=
 github.com/sanches1984/gopkg-errors v1.0.0/go.mod h1:IJgAnOC4u81HZNlBxzxVZfmaG+8MiHkcC2p5Ndldhac=
-github.com/sanches1984/gopkg-errors v1.0.1 h1:ER1tDgMOzo0l495Dggk4ecL7hCxMAkM4UWPAZekjonU=
-github.com/sanches1984/gopkg-errors v1.0.1/go.mod h1:IJgAnOC4u81HZNlBxzxVZfmaG+8MiHkcC2p5Ndldhac=
+github.com/sanches1984/gopkg-errors v1.0.2 h1:ORF6APv2jRiO5ti/ATMBrHeM6UJMazUl4HrCynNQLpA=
+github.com/sanches1984/gopkg-errors v1.0.2/go.mod h1:IJgAnOC4u81HZNlBxzxVZfmaG+8MiHkcC2p5Ndldhac=
 github.com/sanches1984/gopkg-logger v1.0.1 h1:8aFwG2P8KKxpykyrfJ8vpZxODGjs4elfeMLu7psqcAQ=
 github.com/sanches1984/gopkg-logger v1.0.1/go.mod h1:ltrcVLoBbQACODkGpWtRkeN9zx4veOnT7w0CXyFTBYI=
 github.com/sean-/seed v0.0.0-20170313163322-e2103e2c3529/go.mod h1:DxrIzT+xaE7yg65j358z/aeFdxmN0P9QXhEzd20vsDc=

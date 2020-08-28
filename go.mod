@@ -29,7 +29,7 @@ require (
 	github.com/prometheus/client_golang v1.7.1
 	github.com/robfig/cron v1.2.0 // indirect
 	github.com/sanches1984/gopkg-database v1.0.0
-	github.com/sanches1984/gopkg-errors v1.0.1
+	github.com/sanches1984/gopkg-errors v1.0.2
 	github.com/sanches1984/gopkg-logger v1.0.1
 	github.com/segmentio/encoding v0.1.15 // indirect
 	github.com/sendgrid/rest v2.6.1+incompatible // indirect
