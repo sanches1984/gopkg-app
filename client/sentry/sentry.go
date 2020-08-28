@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/getsentry/sentry-go"
-	errors "github.com/severgroup-tt/gopkg-errors"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	errors "github.com/sanches1984/gopkg-errors"
+	logger "github.com/sanches1984/gopkg-logger"
 	"time"
 )
 

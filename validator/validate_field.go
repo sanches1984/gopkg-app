@@ -1,7 +1,7 @@
 package validator
 
 import (
-	"github.com/severgroup-tt/gopkg-app/types"
+	"github.com/sanches1984/gopkg-app/types"
 	"reflect"
 
 	"github.com/go-playground/validator/v10"

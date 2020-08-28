@@ -2,8 +2,8 @@ package transport
 
 import (
 	"github.com/go-openapi/spec"
-	"github.com/severgroup-tt/gopkg-app/types"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-app/types"
+	logger "github.com/sanches1984/gopkg-logger"
 	"github.com/utrack/clay/v2/transport/swagger"
 	"strings"
 )

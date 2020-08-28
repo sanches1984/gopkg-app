@@ -6,10 +6,10 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/severgroup-tt/gopkg-app/app"
-	"github.com/severgroup-tt/gopkg-app/middleware"
-	errors "github.com/severgroup-tt/gopkg-errors"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-app/app"
+	"github.com/sanches1984/gopkg-app/middleware"
+	errors "github.com/sanches1984/gopkg-errors"
+	logger "github.com/sanches1984/gopkg-logger"
 	"github.com/streadway/amqp"
 )
 

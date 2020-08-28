@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"context"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	logger "github.com/sanches1984/gopkg-logger"
 	"time"
 
 	"google.golang.org/grpc"

@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/joho/godotenv"
-	"github.com/severgroup-tt/gopkg-app/client/email/provider"
+	"github.com/sanches1984/gopkg-app/client/email/provider"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -2,13 +2,13 @@ package errors
 
 import (
 	"context"
-	"github.com/severgroup-tt/gopkg-app/types"
+	"github.com/sanches1984/gopkg-app/types"
 	"reflect"
 	"regexp"
 	"strconv"
 	"strings"
 
-	"github.com/severgroup-tt/gopkg-errors"
+	"github.com/sanches1984/gopkg-errors"
 
 	"github.com/go-playground/validator/v10"
 )

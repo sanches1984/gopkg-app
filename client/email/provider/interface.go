@@ -2,7 +2,7 @@ package provider
 
 import (
 	"context"
-	"github.com/severgroup-tt/gopkg-app/app"
+	"github.com/sanches1984/gopkg-app/app"
 )
 
 type IProvider interface {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	logger "github.com/severgroup-tt/gopkg-logger"
+	logger "github.com/sanches1984/gopkg-logger"
 
 	grpc_retry "github.com/grpc-ecosystem/go-grpc-middleware/retry"
 	"google.golang.org/grpc"

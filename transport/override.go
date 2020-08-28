@@ -1,7 +1,7 @@
 package transport
 
 import (
-	"github.com/severgroup-tt/gopkg-errors/transport"
+	"github.com/sanches1984/gopkg-errors/transport"
 
 	"github.com/utrack/clay/v2/transport/httpruntime"
 )

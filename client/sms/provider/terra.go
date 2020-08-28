@@ -6,14 +6,14 @@ import (
 	"crypto/md5"
 	"encoding/json"
 	"fmt"
-	"github.com/severgroup-tt/gopkg-app/app"
+	"github.com/sanches1984/gopkg-app/app"
 	"io/ioutil"
 	"net/http"
 	"strconv"
 	"strings"
 
-	"github.com/severgroup-tt/gopkg-errors"
-	"github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-errors"
+	"github.com/sanches1984/gopkg-logger"
 )
 
 // https://terasms.ru/documentation/api/http/errors

@@ -2,8 +2,8 @@ package provider
 
 import (
 	"context"
-	"github.com/severgroup-tt/gopkg-app/app"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-app/app"
+	logger "github.com/sanches1984/gopkg-logger"
 )
 
 type logProvider struct{}

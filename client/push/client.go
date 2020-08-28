@@ -8,7 +8,7 @@ import (
 	"errors"
 	"fmt"
 	"github.com/prometheus/client_golang/prometheus"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	logger "github.com/sanches1984/gopkg-logger"
 	"io"
 	"io/ioutil"
 	"net/http"

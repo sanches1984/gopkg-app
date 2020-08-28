@@ -2,7 +2,7 @@ package types
 
 import (
 	"context"
-	"github.com/severgroup-tt/gopkg-errors"
+	"github.com/sanches1984/gopkg-errors"
 	"time"
 )
 

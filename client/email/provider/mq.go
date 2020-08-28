@@ -3,12 +3,12 @@ package provider
 import (
 	"context"
 	"encoding/json"
-	"github.com/severgroup-tt/gopkg-app/middleware"
+	"github.com/sanches1984/gopkg-app/middleware"
 	"os"
 
-	"github.com/severgroup-tt/gopkg-app/app"
-	errors "github.com/severgroup-tt/gopkg-errors"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-app/app"
+	errors "github.com/sanches1984/gopkg-errors"
+	logger "github.com/sanches1984/gopkg-logger"
 	"github.com/streadway/amqp"
 )
 

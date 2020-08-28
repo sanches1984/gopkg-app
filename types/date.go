@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/severgroup-tt/gopkg-errors"
+	"github.com/sanches1984/gopkg-errors"
 )
 
 const DateFormatYMD = "2006-01-02"

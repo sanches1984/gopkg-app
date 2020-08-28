@@ -2,11 +2,11 @@ package provider
 
 import (
 	"context"
+	"github.com/sanches1984/gopkg-app/app"
+	"github.com/sanches1984/gopkg-errors"
+	"github.com/sanches1984/gopkg-logger"
 	"github.com/sendgrid/sendgrid-go"
 	"github.com/sendgrid/sendgrid-go/helpers/mail"
-	"github.com/severgroup-tt/gopkg-app/app"
-	"github.com/severgroup-tt/gopkg-errors"
-	"github.com/severgroup-tt/gopkg-logger"
 )
 
 type sendGridProvider struct {

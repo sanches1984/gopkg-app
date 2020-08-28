@@ -4,7 +4,7 @@ import (
 	grpcmw "github.com/grpc-ecosystem/go-grpc-middleware"
 	"github.com/grpc-ecosystem/go-grpc-middleware/tracing/opentracing"
 	grpc_prometheus "github.com/grpc-ecosystem/go-grpc-prometheus"
-	mw "github.com/severgroup-tt/gopkg-app/client/grpc/middleware"
+	mw "github.com/sanches1984/gopkg-app/client/grpc/middleware"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/keepalive"
 )

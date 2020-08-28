@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 	"github.com/gocraft/work"
-	"github.com/severgroup-tt/gopkg-errors"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-errors"
+	logger "github.com/sanches1984/gopkg-logger"
 	"reflect"
 	"time"
 )

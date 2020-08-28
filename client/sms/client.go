@@ -2,10 +2,10 @@ package sms
 
 import (
 	"context"
-	"github.com/severgroup-tt/gopkg-app/client/sms/provider"
+	"github.com/sanches1984/gopkg-app/client/sms/provider"
 
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/severgroup-tt/gopkg-app/app"
+	"github.com/sanches1984/gopkg-app/app"
 )
 
 type Client struct {

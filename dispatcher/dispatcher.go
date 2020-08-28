@@ -2,11 +2,11 @@ package dispatcher
 
 import (
 	"context"
-	"github.com/severgroup-tt/gopkg-app/client/sentry"
-	"github.com/severgroup-tt/gopkg-app/middleware"
-	database "github.com/severgroup-tt/gopkg-database"
-	"github.com/severgroup-tt/gopkg-database/repository/dao"
-	logger "github.com/severgroup-tt/gopkg-logger"
+	"github.com/sanches1984/gopkg-app/client/sentry"
+	"github.com/sanches1984/gopkg-app/middleware"
+	database "github.com/sanches1984/gopkg-database"
+	"github.com/sanches1984/gopkg-database/repository/dao"
+	logger "github.com/sanches1984/gopkg-logger"
 	"sync"
 )
 
